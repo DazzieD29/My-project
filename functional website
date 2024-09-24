@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fancy Finery online store</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+    <div class="container">
+        <video autoplay muted loop plays-inline class="video">
+            <source src="video/website background video.mp4" type="video/mp4"/>
+        </video>
+        <header class="header">
+            <div class="logo">
+                <img src="images/1695191027523.png" width="70px">
+            </div>
+            <nav class="nav">
+                <a href="#container2" style="text-decoration: none;">Sexy Dresses</a>
+                <a href="#container3" style="text-decoration: none;">Maxi Dresses</a>
+                <a href="#container4" style="text-decoration: none;">2 Piece</a>
+                <a href="#container5" style="text-decoration: none;">Offers</a>
+                <a href="#" style="text-decoration: none;">Crop Top</a>
+                <a href="#" style="text-decoration: none;">Skirt</a>
+                <a href="#" style="text-decoration: none;">Palazo</a>
+                <a href="#" style="text-decoration: none;">Bikini</a>
+                <a href="#container6" style="text-decoration: none;">Contact Us</a>
+                <a href="#container6" style="text-decoration: none;">About Us</a>        
+                 
+            </nav>
+            <div class="icon">
+                <a id="search" href="#/"><span class="material-symbols-outlined" style="font-size: medium;">
+                    search
+                    </span></a>
+                <a id="favorite" href="#/"><span class="material-symbols-outlined" style="font-size: medium;">
+                    favorite 
+                    </span></a>
+                <a id="checkout" href="#/"><span class="material-symbols-outlined" style="font-size: medium;">
+                    shopping_cart_checkout
+                    </span></a>
+                <a id="login" href="#/"><span class="material-symbols-outlined" style="font-size: medium;">
+                    login
+                    </span></a>
+            </div>
+        </header>
+      
+        
+   <div class="maintext">
+    <div class="leftside">
+        <div class="first">
+            <p>style gives you a genuine sense of worth</p>
+        </div>
+        <div class="second">
+            <h3>Get all trendy outfits at affordable prices</h3>
+        </div>
+        <button>Shop Now<span class="material-symbols-outlined">
+            shopping_cart_checkout</span></button>
+    </div>
+    <div class="rightside">
+
+    </div>
+   </div>
+
+<div class="searchbar">
+    <h1>Search.......</h1>
+    <a href="#"><span class="material-symbols-outlined">
+        search
+        </span></a>
+   </div>
+
+   <div class="favorite">
+    <h1>You have not added anything yet.</h1>
+    <a href="#"><span class="material-symbols-outlined">
+        favorite 
+        </span></a>
+   </div>
+
+   <div class="checkout">
+    <div class="checkbox">
+        <img src="images/background11.jpg" alt="">
+        <h2>bodycon sex dress</h2>
+        <p>Qty: 1</p>
+        <span class="material-symbols-outlined">
+            add
+            </span><span class="material-symbols-outlined">
+                delete
+                </span>
+    </div>
+
+    <div class="checkbox">
+        <img src="images/background13.jpg" alt="">
+        <h2>bodycon sex dress</h2>
+        <p>Qty: 1</p>
+        <span class="material-symbols-outlined">
+            add
+            </span><span class="material-symbols-outlined">
+                delete
+                </span>
+    </div>
+
+    <div class="checkbox">
+        <img src="images/background12.jpg" alt="">
+        <h2>bodycon sex dress</h2>
+        <p>Qty: 1</p>
+        <span class="material-symbols-outlined">
+            add
+            </span><span class="material-symbols-outlined">
+                delete
+                </span>
+    </div>
+    <button>Checkout<span class="material-symbols-outlined">
+        shopping_cart_checkout
+        </span> </button>
+   </div>
+
+   <div class="login">
+    <input type="text" id="username" placeholder="Username">
+    <input type="password" id="password" placeholder="Password">
+    <a href="#">Forgot Password</a>
+    <button>Login<span class="material-symbols-outlined">
+        login
+        </span></button>
+   </div>
+    </div>
+   
+        </div>
+    </div>
+   
+<section id="container2">
+    <div class="container2">
+        <p class="heading">Sexy Dresses <br /><br /></p>
+        <div class="underline"></div>
+        <div class="women">
+        <div class="products">
+            <div class="top">
+                <img src="images/background18.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div> 
+        <div class="products">
+            <div class="top">
+                <img src="images/background17.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background16.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background15.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span></p>
+                                    <h3>N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background14.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background13.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background12.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+                
+            </div>
+        </div>
+        <div class="products">
+            <div class="top">
+                <img src="images/background11.jpg" alt="image">
+            </div>
+            <div class="bottom">
+                <h2>Flora Bodicon Dress</h2>
+                <p><span class="material-symbols-outlined">
+                    star
+                    </span>
+                    <span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                          star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star_half
+                                    </span>
+                                </p>
+                                    <h3 class="price">N21,OOO</h3>
+                                    <button>Add to cart<span class="material-symbols-outlined">
+                                        shopping_cart_checkout</span></button>
+            </div>
+        </div>
+
+
+    </section>
+
+
+<section id="container3">
+
+        <div class="container3">
+            <p class="heading">Maxi Dresses <br /><br /></p>
+            <div class="underline"></div>
+            <div class="women">
+            <div class="products">
+                <div class="top">
+                    <img src="images/background18.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div> 
+            <div class="products">
+                <div class="top">
+                    <img src="images/background17.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background16.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background15.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span></p>
+                                        <h3>N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background14.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background13.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background12.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+            <div class="products">
+                <div class="top">
+                    <img src="images/background11.jpg" alt="image">
+                </div>
+                <div class="bottom">
+                    <h2>Flora Bodicon Dress</h2>
+                    <p><span class="material-symbols-outlined">
+                        star
+                        </span>
+                        <span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                              star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                    star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star_half
+                                        </span>
+                                    </p>
+                                        <h3 class="price">N21,OOO</h3>
+                                        <button>Add to cart<span class="material-symbols-outlined">
+                                            shopping_cart_checkout</span></button>
+                    
+                </div>
+            </div>
+
+
+        </section>
+
+<section id="container4">
+
+            <div class="container4">
+                <p class="heading">2 Piece <br /><br /></p>
+                <div class="underline"></div>
+                <div class="women">
+                <div class="products"> 
+                    <div class="top">
+                        <img src="images/background18.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                 </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div> 
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background17.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background16.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background15.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span></p>
+                                            <h3>N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background14.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background13.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background12.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+                <div class="products">
+                    <div class="top">
+                        <img src="images/background11.jpg" alt="image">
+                    </div>
+                    <div class="bottom">
+                        <h2>Flora Bodicon Dress</h2>
+                        <p><span class="material-symbols-outlined">
+                            star
+                            </span>
+                            <span class="material-symbols-outlined">
+                                star
+                                </span>
+                                <span class="material-symbols-outlined">
+                                  star
+                                    </span>
+                                    <span class="material-symbols-outlined">
+                                        star
+                                        </span>
+                                        <span class="material-symbols-outlined">
+                                            star_half
+                                            </span>
+                                        </p>
+                                            <h3 class="price">N21,OOO</h3>
+                                            <button>Add to cart<span class="material-symbols-outlined">
+                                                shopping_cart_checkout</span></button>
+                        
+                    </div>
+                </div>
+
+
+            </section>
+
+            <section id="container5">
+
+                <div class="container5">
+
+                <p id="head" class="heading">Offers</p>
+                    
+                    <div class="offers2">
+                        <div class="parts" id="white">
+                            <h1>Pay using your Credit Card,</h1>
+                            <p>Get more discount when your shop our combo deals</p>
+                            <button>Apply Offer</button>
+                            <img src="images/background8.jpg" width="200px" alt="">
+                        </div>
+
+                        <div class="parts" id="white">
+                            <h1>HURRY!!! BUMPER OFFER DEALS</h1>
+                            <p>Get more discount when your shop our combo deals</p>
+                            <button>Apply Offer</button>
+                            <img src="images/background2.jpg" width="200px" alt="">
+                        </div>
+
+                        <div class="parts" id="white">
+                            <h1>Pay using your Credit Card,</h1>
+                            <p>Get more discount when your shop our combo deals</p>
+                            <button>Apply Offer</button>
+                            <img src="images/background7.jpg" width="200px" alt="">
+                        </div>
+                    
+                    </div>
+                </div>
+
+
+
+            </section>
+
+
+
+<section id="container6">
+    
+
+      <div class="footer">
+        <div class="upper">
+            <div id="b"><img src="images/fancyfinerylogo3.png" width="50px" alt="">
+                <p>Elegance Redefined at Fancy Finery! <br>Affordable luxury, trendy and classy outfits.</p>
+                <div class="images">
+                    <img src="images/facebookicon.png" width="15px" height="15px" alt="">
+                    <img src="images/instagramicon.png" width="15px" height="15px" alt="">
+                    <img src="images/twittericon.png" width="15px" height="15px" alt="">
+                    <img src="images/whatsappicon.png" width="15px" height="15px" alt="">
+                </div>
+            </div>
+            <div id="b">
+                <h1>Contact Info.</h1>
+                <div class="infofooter">
+                   <div class="matter">
+                    <span class="material-symbols-outlined">
+                        call
+                        </span>+234-806-317-7120
+                   </div> 
+                       
+                   <div class="matter">
+                    <span class="material-symbols-outlined">
+                        call
+                        </span>+234-803-896-7186
+                   </div> 
+                   <div class="matter">
+                    <span class="material-symbols-outlined">
+                        mail
+                        </span>fancyfinery@gmail.com
+                   </div> 
+                  <div class="matter">
+                    <span class="material-symbols-outlined">
+                        location_on
+                        </span>Lagos, Nigeria
+                  </div> 
+                </div> 
+            </div>
+            <div id="b">
+                <h1>Newsletter</h1>
+                <p>Get all the latest trends and updates and never miss out on anything!</p>
+                <input class="input" type="email" placeholder="Email..........">
+                <button>Subscribe</button>
+            </div>
+        </div>
+        <div class="lower">
+            <h2>Design and developed by <h1>Dazzie's Nigeria</h1></h2>
+        </div>
+      </div>   
+      
+    </section> 
+      <script src="script.js"></script>
+      <h2>i love my life</h2>
+      <p id="love">i love life so much</p>
+      <button type="button" onclick="document.getElementById('love').style.fontSize='35px'">Click it or lick it</button>
+</body>
+</html> 
